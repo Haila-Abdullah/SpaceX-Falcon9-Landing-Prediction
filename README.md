@@ -53,8 +53,14 @@ Data was collected using SpaceX’s API and supplemented with web scraping techn
 - `06_launch-site-location.ipynb`: Jupyter notebook for analyzing the geographical locations of the launch sites.
 - `07_spacex-dashboard.ipynb`: Jupyter notebook for building an interactive dashboard to visualize launch records.
 - `08_spacex-machine-learning-prediction.ipynb`: Jupyter notebook for building and evaluating machine learning models to predict Falcon 9 landing success.
+- **SpaceX_Falcon_9_Landing_Prediction_Presentation.pdf:** PowerPoint presentation in PDF format summarizing the project and key findings.
 
 ## Conclusion
 This project demonstrates how data science and machine learning can be used to predict the success of Falcon 9 first-stage landings, providing valuable insights into SpaceX’s launch operations. The predictive models developed in this project can assist in optimizing pricing strategies, improving operational efficiency, and offering a competitive edge against other companies in the space industry.
+
+## Presentation
+The PowerPoint presentation for this project is available in PDF format. You can view the presentation by downloading the following file:
+
+[**SpaceX_Falcon_9_Landing_Prediction_Presentation.pdf**](./SpaceX_Falcon_9_Landing_Prediction_Presentation.pdf)
 
 
